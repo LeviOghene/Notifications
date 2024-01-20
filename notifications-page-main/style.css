@@ -26,6 +26,7 @@ body{
     background-color: var(--White);
     color: var(--Dark-grayish-blue);
     font-family: 'Plus Jakarta Sans', sans-serif;
+    margin-bottom: 20px;
 }
 
 .navbar{
